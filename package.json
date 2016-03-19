@@ -1,0 +1,39 @@
+{
+  "name": "no-no-brainer",
+  "version": "0.0.1",
+  "description": "See what we can do with Neurosky MindWave EEG Headset using nodejs",
+  "keywords": [
+    "neurosky",
+    "eeg",
+    "mindwave",
+    "oran",
+    "leiba"
+  ],
+  "author": "Oran Leiba <leiba.oran@gmail.com>",
+  "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Oran Leiba",
+      "email": "leiba.oran@gmail.com"
+    }
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oranleiba/neurosky-brainwave-eeg"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "start": "node ./neurosky",
+    "test": "grunt default --verbose"
+  },
+  "engines": {
+    "node": ">=5.9.0",
+    "npm": ">=3.7.3"
+  }
+}
