@@ -18,11 +18,11 @@
     }
   ],
   "dependencies": {
-
+    "express": "^4.13.4",
+    "express-ws": "^1.0.0",
+    "ws": "^1.0.1"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/oranleiba/neurosky-brainwave-eeg"
