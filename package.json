@@ -20,6 +20,7 @@
   "dependencies": {
     "express": "^4.13.4",
     "express-ws": "^1.0.0",
+    "highcharts": "^4.2.3",
     "ws": "^1.0.1"
   },
   "devDependencies": {},
